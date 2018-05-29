@@ -14,7 +14,7 @@
 %% limitations under the License.
 %%--------------------------------------------------------------------
 
--module(emq_plugin_template_sup).
+-module(emq_hdlc_sup).
 
 -behaviour(supervisor).
 
