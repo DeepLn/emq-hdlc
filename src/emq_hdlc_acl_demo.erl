@@ -14,7 +14,7 @@
 %% limitations under the License.
 %%--------------------------------------------------------------------
 
--module(emq_acl_demo).
+-module(emq_hdlc_acl_demo).
 
 -include_lib("emqttd/include/emqttd.hrl").
 
